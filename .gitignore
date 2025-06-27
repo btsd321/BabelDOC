@@ -22,7 +22,6 @@ memray*
 .idea
 *.egg-info
 .DS_Store
-.vscode
 __pycache__
 .ruff_cache
 yadt.toml
