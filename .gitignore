@@ -14,8 +14,6 @@ web/*.local
 
 memray*
 **/*.so
-*.pdf
-*.docx
 *.json
 **/*.pyc
 .venv
