@@ -14,15 +14,14 @@ web/*.local
 
 memray*
 **/*.so
-*.pdf
-*.docx
 *.json
+*.pdf
 **/*.pyc
+.vscode
 .venv
 .idea
 *.egg-info
 .DS_Store
-.vscode
 __pycache__
 .ruff_cache
 yadt.toml
