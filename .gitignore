@@ -15,7 +15,9 @@ web/*.local
 memray*
 **/*.so
 *.json
+*.pdf
 **/*.pyc
+.vscode
 .venv
 .idea
 *.egg-info
