@@ -970,7 +970,8 @@ class Typesetting:
             and self.translation_config.watermark_output_mode
             == WatermarkOutputMode.Watermarked
         ):
-            self.add_watermark(page)
+            pass
+            # self.add_watermark(page) 不添加水印
         try:
             para_index = index.Index()
             para_map = {}
